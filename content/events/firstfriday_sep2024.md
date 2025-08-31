@@ -1,10 +1,10 @@
 ---
-title: "First Friday Fire"
-image: "firstfriday_sep24.jpg"
-date: 2024-09-06T17:00:00-0500
+title: "First Friday"
+image: "firstfriday_sep25.png"
+date: 2025-09-05T17:30:00-0500
 draft: false
 ---
 
-Mass @ 5PM @ St. Patricks of Merna
+Mass @ 5:30PM @ Epiphany
 
-Fire, Food, and Fellowship to Follow.
+Food and Fellowship to Follow.
