@@ -1,8 +1,8 @@
 ---
 title: "Evensong"
 image: "divineworship.jpg"
-date: 2025-04-16T18:30:00-0500
-draft: false
+date: 2026-04-16T18:30:00-0500
+draft: true
 ---
 
 Celebrate Evensong (evening prayer in the Anglo-Catholic way) at St. Patrick's in Wapella. 6:30PM every Wednesday.
